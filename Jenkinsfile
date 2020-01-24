@@ -11,7 +11,7 @@ pipeline {
       steps {
         echo 'Running PHPUnit...'
         sh '''
-        echo "hello World"
+        echo "hello World1"
         '''
       }
     }
